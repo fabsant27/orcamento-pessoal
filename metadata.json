@@ -1,0 +1,5 @@
+{
+  "name": "FinGlow AI",
+  "description": "A smart personal finance tracker powered by Gemini AI. Track income, expenses, visualize data with charts, and get personalized financial advice.",
+  "requestFramePermissions": []
+}
